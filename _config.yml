@@ -1,10 +1,36 @@
 title: Patrick Buergin
-email: hello@patrickbuergin.com
-description: >-
-  ✨ hello world ✨
+masthead_title: patrickbuergin.com
 url: "https://www.patrickbuergin.com"
-twitter_username: patbuergin
-github_username:  patrickbuergin
+description: >-
+  Thoughts about software engineering, communication, leadership and more.
+
+# Personal information
+author:
+  name: "Patrick Buergin"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: >-
+    Working on voice shopping [@amazon](https://www.amazon.jobs/teams/alexa-shopping)
+    **::** Views are my own
+  linkedin: patrickbuergin
+  xing: Patrick_Buergin3
+  twitter: patbuergin
+  github: patrickbuergin
+social:
+  type: Person
+  name: Patrick Buergin
+  links:
+    - "https://www.linkedin.com/in/patrickbuergin/"
+    - "https://xing.com/profile/Patrick_Buergin3"
+    - "https://twitter.com/patbuergin"
+
+# Layout
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Build settings
 markdown: kramdown
