@@ -4,5 +4,5 @@ source "https://rubygems.org"
 # Authoritative source: https://github.com/github/pages-gem/. 
 gem "github-pages", group: :jekyll_plugins
 
-# Default theme (jekyll new)
-gem "minima", "~> 2.0"
+# Required to build with remote theme 'mmistakes/minimal-mistakes'.
+gem "jekyll-include-cache", group: :jekyll_plugins
