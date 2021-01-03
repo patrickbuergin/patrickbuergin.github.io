@@ -1,0 +1,13 @@
+title: Patrick Buergin
+email: hello@patrickbuergin.com
+description: >-
+  ✨ hello world ✨
+url: "https://www.patrickbuergin.com"
+twitter_username: patbuergin
+github_username:  patrickbuergin
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
