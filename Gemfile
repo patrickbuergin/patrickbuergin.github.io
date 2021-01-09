@@ -6,3 +6,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # Required to build with remote theme 'mmistakes/minimal-mistakes'.
 gem "jekyll-include-cache", group: :jekyll_plugins
+
+# To validate HTML output.
+gem 'rake'
+gem 'html-proofer'

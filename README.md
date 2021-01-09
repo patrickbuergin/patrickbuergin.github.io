@@ -10,9 +10,9 @@ Personal website and blog, see it at [patrickbuergin.com](https://www.patrickbue
 
 ### Verify changes
 
-Manual testing steps are documented under [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).
+Validate HTML output: `bundle exec rake test`
 
-Missing automated checks: [Issue #1](https://github.com/patrickbuergin/patrickbuergin.github.io/issues/1)
+Manual testing steps are documented under [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll).
 
 ### Update project dependencies
 
