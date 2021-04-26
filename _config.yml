@@ -35,6 +35,7 @@ defaults:
       type: posts
     values:
       layout: single
+      permalink: /:year/:month/:title
       author_profile: false
       comments: false
       show_date: true
