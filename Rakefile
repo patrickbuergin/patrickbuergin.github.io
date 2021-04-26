@@ -10,6 +10,7 @@ task :test do
     :url_ignore => [
         /linkedin\.com\//,
         /twitter\.com\//,
+        "#",
     ],
   }).run
 end
