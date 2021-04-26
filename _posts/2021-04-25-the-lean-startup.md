@@ -1,6 +1,5 @@
 ---
-title: "Dealing with Ambiguity – The Lean Startup"
-layout: posts
+title: "Dealing with Ambiguity: The Lean Startup"
 ---
 
 _The Lean Startup_ introduces a framework for creating something new under conditions of extreme uncertainty.

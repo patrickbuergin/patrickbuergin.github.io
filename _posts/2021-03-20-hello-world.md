@@ -1,6 +1,5 @@
 ---
 title: "Hello World!"
-layout: posts
 ---
 
 > _“A journey of a thousand miles begins with a single step” ―[Laozi](https://en.wikipedia.org/w/index.php?title=A_journey_of_a_thousand_miles_begins_with_a_single_step&oldid=966439557)_
